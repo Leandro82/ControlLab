@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ControlLab", "ControlLab\ControlLab.vdproj", "{9A920A76-B947-4402-B451-B3DABE1B7256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A920A76-B947-4402-B451-B3DABE1B7256}.Debug|Default.ActiveCfg = Debug
+		{9A920A76-B947-4402-B451-B3DABE1B7256}.Debug|Default.Build.0 = Debug
+		{9A920A76-B947-4402-B451-B3DABE1B7256}.Release|Default.ActiveCfg = Release
+		{9A920A76-B947-4402-B451-B3DABE1B7256}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
